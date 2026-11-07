@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=opti
+Comment=simple, transparent media viewer
+Exec=__PREFIX__/bin/opti %f
+Icon=io.github.gary-host-laptop.opti
+Terminal=false
+Categories=Graphics;Viewer;
+MimeType=image/*;video/*;
+StartupWMClass=io.github.gary-host-laptop.opti
